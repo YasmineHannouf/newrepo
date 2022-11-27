@@ -7,7 +7,7 @@
 * Adress :  Baddawi, Tripoli, North Lebanon
 * Nationality : Lebanese
 * Phone Number :+96181239286
-
+* Email: yasmina.hannouf.2018@gmail.com
 * Github : [YasmineHannouf](http://github.com/YasmineHannouf)
   
 > ## OBJECTIVE
